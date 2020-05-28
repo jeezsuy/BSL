@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sample Suite]">
+  <test name="Learning Jenkins(failed)">
+    <classes>
+      <class name="Jenkins.CopyOfSQM33">
+        <methods>
+          <include name="addBankdetails"/>
+        </methods>
+      </class> <!-- Jenkins.CopyOfSQM33 -->
+    </classes>
+  </test> <!-- Learning Jenkins(failed) -->
+</suite> <!-- Failed suite [Sample Suite] -->
